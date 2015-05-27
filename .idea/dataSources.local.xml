@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="TeachMe" uuid="9a1b7165-a203-49de-8c63-4bfbdcea8d79">
+      <secret-storage>master_key</secret-storage>
+      <user-name>homestead</user-name>
+      <schema-pattern>teachme.*</schema-pattern>
+      <default-schemas>teachme.*</default-schemas>
+    </data-source>
+  </component>
+</project>
